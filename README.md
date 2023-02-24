@@ -16,3 +16,7 @@ Install Instruction:
 4. You can run the program in your computer using Python language. You may need to compile the program first.
 
 Program Instruction:
+
+Firstly, the program will ask you to enter the grade you got. Then it will ask you to enter the total points. Then it will output the percentage for the assignment.
+
+Support: If there's any issues in the program, please contact the 
