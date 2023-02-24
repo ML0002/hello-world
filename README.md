@@ -19,4 +19,6 @@ Program Instruction:
 
 Firstly, the program will ask you to enter the grade you got. Then it will ask you to enter the total points. Then it will output the percentage for the assignment.
 
-Support: If there's any issues in the program, please contact the 
+Support: If there's any issues in the program, please contact us!
+
+READ the License and the Contributing!
